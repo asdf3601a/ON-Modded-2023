@@ -355,6 +355,11 @@ hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "327a7b3255c51b7e3f4ff1c0ad3ebcb73bb8f9857466c774fcb076b5353c2cbd"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
 metafile = true
