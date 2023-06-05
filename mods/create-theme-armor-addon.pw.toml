@@ -1,0 +1,13 @@
+name = "Create Theme Armor Addon"
+filename = "Create_Theme_Armor_Addon_1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad0119db5a9e118dff1c3c5eba7657adfcd9a0ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4565215
+project-id = 869677

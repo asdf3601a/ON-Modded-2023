@@ -1,0 +1,13 @@
+name = "Blocks Booster"
+filename = "BlockBooster-1.19.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c4cdfbe8ae6483422b118ec665ad98d60b163dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4422646
+project-id = 610460

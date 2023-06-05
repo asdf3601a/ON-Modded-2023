@@ -1,0 +1,13 @@
+name = "ON Modded"
+author = "cute_panda"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0cf81544a5d4b423978eedaa1e0ba57f38b8ef30203fd5d8ca126de68689f30d"
+
+[versions]
+forge = "43.2.13"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Create: Diesel and Oil Generators"
+filename = "createdieselgenerators-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63aaba290d6c15f8da54ff2598a7db21e342c124"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4567265
+project-id = 870133

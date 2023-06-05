@@ -1,0 +1,13 @@
+name = "JCPlugin"
+filename = "JCPlugin-1.17.x-1.19.x-4.0.4-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "505dc04d417335e10726be0fc7d1d65b4944956b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431131
+project-id = 659192
