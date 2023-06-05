@@ -1,0 +1,13 @@
+name = "Level Text Fix"
+filename = "LevelTextFix-Forge-1.19.2-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ecb491092014c111c33e722b764f3aee458325e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4457509
+project-id = 840817

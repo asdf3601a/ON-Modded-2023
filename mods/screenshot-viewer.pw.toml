@@ -1,0 +1,13 @@
+name = "Screenshot Viewer"
+filename = "screenshot_viewer-1.1.2-forge-mc1.19x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b698ba9cb214a1692c61afe5ae361a7857c2020e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4428646
+project-id = 693961

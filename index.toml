@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bin/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+file = "LICENSE"
+hash = "cdb0e22a9ee69f10733036d573fc351c9ac3461d7753dc67a4d0a6edd4c227f1"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d5097ecaf832199d5a8eb0d28bf7869134b54f93fd0999b7bdfe0129716c720"
+metafile = true
+
+[[files]]
+file = "mods/better-tips.pw.toml"
+hash = "a6df1375311bacb175c165e5f54077d4a7dd3baa278e950243fb198d3f1f1c08"
 metafile = true
 
 [[files]]
@@ -285,6 +290,11 @@ hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "27ce0f6ec9e15d9136c369315acc3c5ebd88f0c1ef8c4eb1cc33a636f6694fc1"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
@@ -302,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/defaultsettings.pw.toml"
 hash = "a77a0c3e2eb672a17e6f76b29f2e74fdb853f4a891acc50a8dd2992675ce8969"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
 metafile = true
 
 [[files]]
@@ -390,6 +405,11 @@ hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
 metafile = true
 
 [[files]]
+file = "mods/food-effect-tooltips-forge.pw.toml"
+hash = "21c67f7919d0752e6113cfe4375c250e5112d310a02d9f58814f39f21ee2b731"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
@@ -470,6 +490,11 @@ hash = "f91c2ebd540472a30a4c5be3ee320defb6897bbd4279f18fa81f8ff689bad2dc"
 metafile = true
 
 [[files]]
+file = "mods/jepp.pw.toml"
+hash = "a9bdff5f75492d573830b3f580c1bba22ecb32e4cbf62f093cc5fdffd932c597"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "f8c78f9eef3ce31cc182a1d0d12c93c2e5258ca83e28fea0ec2a2fba999f9a9c"
 metafile = true
@@ -495,13 +520,48 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "18c83961428729d4cd6b90ed1f822c89c55b963df3ad85d076800287091524f1"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
 metafile = true
 
 [[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
+metafile = true
+
+[[files]]
+file = "mods/level-text-fix.pw.toml"
+hash = "a2652384df7e0dbc8d701198851e3c6f321b088f615dd436443a1f8ee1cb6b89"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "3b9f5b67f80eb8c690dc29d08e6a8769a9dbe88a00b41e435fcdc2e1ed1c9159"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "b87e7522189c4430f0fd581f1e4a3388ebd65b06733ea4f7fec7b701de4dd101"
+metafile = true
+
+[[files]]
+file = "mods/littleframes.pw.toml"
+hash = "d184c713256f9cc0271e3c51c9a95762fc90eccdffe1de5282f266e4436ebc09"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "56b6d09fb2ccaceb7bf7f5ed03df651733f92f369220336de4ec9cbe002e88f3"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "eebad9183a63f374b30152d791e34faf5799fcfdacace25a3222f19fd0b8959e"
 metafile = true
 
 [[files]]
@@ -575,6 +635,11 @@ hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
@@ -595,6 +660,11 @@ hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
 metafile = true
@@ -605,8 +675,38 @@ hash = "ffa199e6dd15c122281c0f5c453f387a75e3504cf6fa35500d967faad0f86e15"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "33dd511c887fbedaa92946fe57faa8cee8770a87211b334d9c807e4e80fc2b0f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "7d3c1de559ed73b86c31c27aefdd5cec7c91fcb69b580c1b3400c04f43b9ed58"
 metafile = true
 
 [[files]]
@@ -617,6 +717,16 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "f58f6967e5b7d2d966a439edf6f27a89290c41a87049c0ed7324c887bbd6998c"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "a7eaded223027d0115e2eeb69f0c5ec7d0953befbd8af538f49c076878f995a7"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
@@ -640,6 +750,11 @@ hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
@@ -660,6 +775,11 @@ hash = "d414c651b19243b1140f6b8633469952f158dfa7183bf83670c68112770a047f"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "1488ba615e19545da03265aa234d3f9cb0a1b09d06bbb4dfc8b901f7585fbb8f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
@@ -670,6 +790,11 @@ hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
+metafile = true
+
+[[files]]
 file = "mods/time-in-a-bottle-standalone.pw.toml"
 hash = "45e10364595715c6f0a79117906b573365ac3109319e8e349affa20cef090cc1"
 metafile = true
@@ -677,6 +802,16 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "0d59965134e837bc8d4c3a8b43788b493317070cc00f61de7beef0764981857a"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
 metafile = true
 
 [[files]]
@@ -697,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "4e0c6c57783eaa686c9bc206054e9e9f5b147491b3e91efd65c09f7b28bea16f"
 metafile = true
 
 [[files]]
