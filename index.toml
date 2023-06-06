@@ -39,6 +39,11 @@ hash = "9034a8ee3e84c3533c0aaf56b391330fc94ac617d99eaeabfbffac23b351e2a4"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6da1f9825e32456bc7fddc7355db319529cc56089900cce016fe671306202f68"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "7d97c74a8face79b86276545e903f7e37191b69137376c4269464fd51e9a9ca6"
 metafile = true
@@ -56,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
+metafile = true
+
+[[files]]
+file = "mods/armorpoints.pw.toml"
+hash = "bbaad05e054df66fcf13ce369bc6e8bc7f02b8bb188cb6400e5062234ad65e2a"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "6d5097ecaf832199d5a8eb0d28bf7869134b54f93fd0999b7bdfe0129716c720"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "bb3ebb19a187deb7604280d9bc793e466e2ce823b0c77743e15559fca36f6e83"
 metafile = true
 
 [[files]]
@@ -121,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ hash = "77fa72a0d31e0d5bbd4fb7a95d00300f7d654bedf9a42e0e665e17dd937d764c"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "6cbfa7fd5869f70b1fd7c3d6ac697cc41f74dba8c4f78a3d21bc16aaa24e04ec"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "5549e27f071c2e03163ed92198a63bfb9f1e0d8934d069afd1fe46cb3d41ee71"
 metafile = true
@@ -316,6 +341,16 @@ metafile = true
 [[files]]
 file = "mods/defaultsettings.pw.toml"
 hash = "a77a0c3e2eb672a17e6f76b29f2e74fdb853f4a891acc50a8dd2992675ce8969"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "58aed55b55bc72a815e4c2d985440da38ba0785818403b2efe369d94a9e3f15e"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
 metafile = true
 
 [[files]]
@@ -469,6 +504,11 @@ hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "b321dd880886cb905fa58cd80c8e1c6d7e1b7eaca4382000fe0c74c687508820"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "2c79661dff2fd25029c30d9eaa83991efb50a54df0aec0278a2c60d42bd3ec84"
 metafile = true
@@ -481,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "f92ccbb8dd0fa8673aac790a46e153b8e027abbd90e41d31afde80288d0141f5"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
@@ -679,6 +724,11 @@ hash = "ffa199e6dd15c122281c0f5c453f387a75e3504cf6fa35500d967faad0f86e15"
 metafile = true
 
 [[files]]
+file = "mods/randomtp.pw.toml"
+hash = "78bb399f217b203d168122f525499647de393e0ab6967c3a12b1a16083aa7693"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
@@ -744,6 +794,16 @@ hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "318ac48f5a673d2b91bb1824f45179639c66e8d42ea225fe97fb16016a2e8587"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5da37b16f31ad708149c9530ab1cfbc34ed6ae9d06ed38e13c6a62dc828d28a0"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
 metafile = true
@@ -781,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "d8a726622a0a40604e89899289621c1d3dc59432e8bb648a54fe69c4864da71f"
 metafile = true
 
 [[files]]
@@ -824,13 +889,28 @@ hash = "6b268a4ed3898123e77da6f739cace72be55073cda6c799c515655359ddf2a0a"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "f374f763392a7a2b66f84bdb3523bae3133c42101153d29550e216660adcc3c6"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
 metafile = true
 
 [[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "4e0c6c57783eaa686c9bc206054e9e9f5b147491b3e91efd65c09f7b28bea16f"
+metafile = true
+
+[[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "ceff381c6024e27dd53377bb5d7dbab91b07372203934ab9f894be7447ecb248"
+metafile = true
+
+[[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "0351b0fde39bc6d41fd1283270af87b2057b10d670ff3c44ade8ae835542f8bf"
 metafile = true
 
 [[files]]

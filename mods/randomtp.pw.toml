@@ -1,0 +1,13 @@
+name = "RandomTP"
+filename = "randomtp-7.1.0+1.19-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e80a544424cfe5490007a50514f804a2676af9f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3993974
+project-id = 354834

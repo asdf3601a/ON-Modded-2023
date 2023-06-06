@@ -1,0 +1,13 @@
+name = "WMITAF"
+filename = "wmitaf-forge-mc1.19-3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f621c4ba07432d373ccea8a839e1ed72563cad2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4049591
+project-id = 547358

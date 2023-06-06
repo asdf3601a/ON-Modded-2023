@@ -1,0 +1,13 @@
+name = "Better Climbing"
+filename = "better_climbing-1.1.0-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/YZjBkEeO/better_climbing-1.1.0-FORGE.jar"
+hash-format = "sha1"
+hash = "5d5a1cd2abea342cdeb8fdd9bb743cea04390288"
+
+[update]
+[update.modrinth]
+mod-id = "ZucWZEBV"
+version = "YZjBkEeO"
