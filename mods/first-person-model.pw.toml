@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4559616
 project-id = 333287
+
+[option]
+optional = true
+default = false
+description = "May affect view."

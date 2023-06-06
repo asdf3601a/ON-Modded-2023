@@ -5,6 +5,10 @@ file = "config/bettertags-client.toml"
 hash = "8d8c26a2013ce5f141ae73bc2e8b8da4dc2b78b844fee230b49ddf16df88f9e5"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -170,6 +174,11 @@ hash = "bb3ebb19a187deb7604280d9bc793e466e2ce823b0c77743e15559fca36f6e83"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "5947b10783808ab2271f685df6ffb1b136abcb9656ed65fa3ee14e59c31a5cd2"
 metafile = true
@@ -246,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
+hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
 metafile = true
 
 [[files]]
@@ -590,11 +599,6 @@ hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
 
 [[files]]
-file = "mods/emojiful.pw.toml"
-hash = "5ad55f76461e9cd15c10225f06df836aefcce608810e06b12fe8cccabfaa95a0"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
@@ -845,11 +849,6 @@ hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "2a4ecac37edca3fcadece165b33bf031e4999f09f1cb84f5fa1e6512ef9c978c"
-metafile = true
-
-[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "77666aab3567194263c594a898c47af230bfe922c474a3f43311663ce9ccdfe2"
 metafile = true
@@ -927,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "77e957c27970b54ffd72af06b3173f0fb29bee3cc72ca170ce217c36936e4458"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
 metafile = true
 
 [[files]]
@@ -1061,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
+hash = "abd1fd66f9aea669e5d5eaede1f61929289878cb9d8f7a5a7ea9a4ffc3d71fda"
 metafile = true
 
 [[files]]
@@ -1102,6 +1106,11 @@ metafile = true
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "6aa0e8ea7438ac6736f1fd602e0407f445bb366ba7b3071dad6fffcd382d89bf"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "f65cfa2126b833d6ea9ee2264259e0cbae0d91eadbce4e3418c6d256ecdfa8b1"
 metafile = true
 
 [[files]]
@@ -1210,6 +1219,11 @@ hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
+metafile = true
+
+[[files]]
 file = "mods/plonk.pw.toml"
 hash = "3e95e7e84b2ed87f888b5e496526a8914f163ea7ec3f282b4e255bd0e0220a6e"
 metafile = true
@@ -1287,11 +1301,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
 metafile = true
 
 [[files]]
