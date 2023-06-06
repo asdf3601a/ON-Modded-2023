@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "cdb0e22a9ee69f10733036d573fc351c9ac3461d7753dc67a4d0a6edd4c227f1"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -715,13 +711,13 @@ hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
 
 [[files]]
-file = "mods/ping.pw.toml"
-hash = "ad65765b5ada6ba04199294cf6f70aae4f66f192a71b424f4a3f8c399eb5f93f"
+file = "mods/overflowing-bars.pw.toml"
+hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
 metafile = true
 
 [[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
+file = "mods/ping.pw.toml"
+hash = "ad65765b5ada6ba04199294cf6f70aae4f66f192a71b424f4a3f8c399eb5f93f"
 metafile = true
 
 [[files]]
