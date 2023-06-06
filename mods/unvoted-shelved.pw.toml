@@ -1,0 +1,13 @@
+name = "Unvoted & Shelved"
+filename = "unvotedandshelved-1.19-2.0.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19c7d09c883f9594ca22d1cc11caa55c4cc0f27e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4037027
+project-id = 551999

@@ -1,0 +1,13 @@
+name = "Project Arsenal"
+filename = "projectarsenal-0.3.3-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbbf01c71c78eb0315cf543392ab9da65b8047cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4454967
+project-id = 683122

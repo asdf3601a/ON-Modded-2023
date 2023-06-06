@@ -1,0 +1,18 @@
+name = "Loot Beams"
+filename = "lootbeams-1.19.2-beta-sept1322.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "517d4bd7971ef3cc06193968b0a239df31620d3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987165
+project-id = 506757
+
+[option]
+optional = true
+default = true
+description = "Adds colored beams on the item entities."

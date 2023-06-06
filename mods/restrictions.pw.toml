@@ -1,0 +1,13 @@
+name = "Restrictions"
+filename = "restrictions-1.19-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oevBqQRC/versions/p2C2eaUQ/restrictions-1.19-5.1.1.jar"
+hash-format = "sha1"
+hash = "b558ec20d12acc2e856ca225ac86e806db9ad450"
+
+[update]
+[update.modrinth]
+mod-id = "oevBqQRC"
+version = "p2C2eaUQ"

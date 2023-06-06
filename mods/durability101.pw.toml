@@ -15,4 +15,4 @@ project-id = 325020
 [option]
 optional = true
 default = false
-description = "It can be noisy when there are many items with durability."
+description = "Shows a small number above the item durability bar.\nIt can be noisy when there are many items with durability."

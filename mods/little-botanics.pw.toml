@@ -1,0 +1,13 @@
+name = "Little Botanics"
+filename = "littlebotanics-1.00-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c590a37972ece2c4740ca1d5b15195d98ce1670"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4357384
+project-id = 813493

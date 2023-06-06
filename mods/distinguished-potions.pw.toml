@@ -1,0 +1,18 @@
+name = "Distinguished Potions"
+filename = "DistinguishedPotions-v4.0.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b72ae9ede8a03f893b80717f3c2224fbb788ab0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4012472
+project-id = 682565
+
+[option]
+optional = true
+default = false
+description = "It changes potion item icons for better understanding."

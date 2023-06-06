@@ -1,0 +1,13 @@
+name = "Health Overlay (Forge)"
+filename = "HealthOverlay-1.19.2-7.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a8e9e6f36707c2c5b3806e0096c5764550e2862"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4288082
+project-id = 368223

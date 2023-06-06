@@ -1,0 +1,13 @@
+name = "Tarot Cards"
+filename = "tarotcards-1.19.2-1.2-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2370cc806d781f4ee64a1e221601e078c7aa979"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4449856
+project-id = 670535

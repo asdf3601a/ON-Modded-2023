@@ -1,0 +1,13 @@
+name = "SignTastic"
+filename = "signtastic-1.19-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aHJDK02p/versions/cQjhryQV/signtastic-1.19-2.1.2.jar"
+hash-format = "sha1"
+hash = "22750bb6d3a878a66b1f7674e5a51b9fc86b003f"
+
+[update]
+[update.modrinth]
+mod-id = "aHJDK02p"
+version = "cQjhryQV"

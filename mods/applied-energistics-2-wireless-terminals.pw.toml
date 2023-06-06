@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "AE2WTLib-12.8.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5fc3b98e4bae1a00dd9300a96c8e01976e74014"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4500511
+project-id = 459929

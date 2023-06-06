@@ -1,0 +1,13 @@
+name = "Botanic Additions"
+filename = "BotanicAdditions-1.19.2-19.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c5aa6c3a1b94f8a15db73440a16a65534baeb1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4558483
+project-id = 310637

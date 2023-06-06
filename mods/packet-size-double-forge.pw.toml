@@ -1,0 +1,13 @@
+name = "Packet Size Doubler (Forge)"
+filename = "PacketSizeDoublerForge-1.0.8-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/lMOrjT68/PacketSizeDoublerForge-1.0.8-1.19.x.jar"
+hash-format = "sha1"
+hash = "24536625d5550eab393dcf5a1f20c517c7a28150"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "lMOrjT68"
