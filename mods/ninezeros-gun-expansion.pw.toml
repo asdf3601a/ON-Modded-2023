@@ -1,13 +1,13 @@
 name = "NineZero's Gun Expansion"
-filename = "nzgExpansion-1.1.3-1.19.2.jar"
+filename = "nzgExpansion-1.2.0-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de276548cb8ba12e659efb517d2ba6440bf16143"
+hash = "bcf481d9ec0d9708fb5bd2f3295a44565268e65a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4534724
+file-id = 4570252
 project-id = 819550

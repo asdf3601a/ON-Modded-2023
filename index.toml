@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
-hash = "3d0eda51ac77b4daa62f68b135ca69b621ba2e888cd7b4fb5d1e47de61d51c75"
+hash = "9c54bfc62af75377b4cf93c33680d97c3a615d7070374e85b4f9a2a1143808ad"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "9648adc396c657371db47131f72bfa598681dab3d400a02b7cac961eeae4a87c"
+hash = "afe9e5330e5db94de23454cd1573131d39535d94991153b6006c94f5fb9d36d4"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
+hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "04e62ba1cb5eb9c85a03ac04dae6598e662c79b925939594d87a17394be80d2d"
+hash = "e09869aa3451d1df3fe8a0c4f4cacb5044c3cad5398872ea24b2b74eee7cd85f"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "ebb2d085db7aeb3c499a399ee08a96615ffc52d5aa1ab8d3f2b5c5cba57b96da"
+hash = "06b93497538940790199dc9401633eec0098deff750a07109c05f994b1ada0fe"
 metafile = true
 
 [[files]]
@@ -1335,7 +1335,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e35494fc0cebf8b886c1f9df99d30e51ce64449d66fcda4b9311dfde4cfe9572"
+hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5da37b16f31ad708149c9530ab1cfbc34ed6ae9d06ed38e13c6a62dc828d28a0"
+hash = "0f2614f177b9a36a332bc30f0d7500d3866dc0ed5f4b6963beadfab88554175c"
 metafile = true
 
 [[files]]
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+hash = "5541e79ad0de4d09097fdc19b54a342076afa72582a434d58809e1a639a847d4"
 metafile = true
 
 [[files]]
