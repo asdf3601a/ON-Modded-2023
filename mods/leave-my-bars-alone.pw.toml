@@ -1,0 +1,13 @@
+name = "Leave My Bars Alone"
+filename = "LeaveMyBarsAlone-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6402ee8d3d7bba74b5c36977f6c6781a0ff3cad7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023020
+project-id = 281715

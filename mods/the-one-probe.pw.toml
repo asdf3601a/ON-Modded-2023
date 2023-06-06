@@ -3,11 +3,11 @@ filename = "theoneprobe-1.19-6.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eyw0UxEx/versions/KCnKC3d7/theoneprobe-1.19-6.2.2.jar"
 hash-format = "sha1"
 hash = "662b49c24342ab8dcc7664e2ad03b73388e678f5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Eyw0UxEx"
-version = "KCnKC3d7"
+[update.curseforge]
+file-id = 3965693
+project-id = 245211

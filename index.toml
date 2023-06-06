@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "cdb0e22a9ee69f10733036d573fc351c9ac3461d7753dc67a4d0a6edd4c227f1"
 
 [[files]]
-file = "bin/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -101,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "bb3ebb19a187deb7604280d9bc793e466e2ce823b0c77743e15559fca36f6e83"
+metafile = true
+
+[[files]]
+file = "mods/better-tips.pw.toml"
+hash = "a6df1375311bacb175c165e5f54077d4a7dd3baa278e950243fb198d3f1f1c08"
 metafile = true
 
 [[files]]
@@ -324,6 +325,11 @@ hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "27ce0f6ec9e15d9136c369315acc3c5ebd88f0c1ef8c4eb1cc33a636f6694fc1"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
@@ -454,6 +460,11 @@ hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
 metafile = true
 
 [[files]]
+file = "mods/food-effect-tooltips-forge.pw.toml"
+hash = "21c67f7919d0752e6113cfe4375c250e5112d310a02d9f58814f39f21ee2b731"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
@@ -549,6 +560,11 @@ hash = "f91c2ebd540472a30a4c5be3ee320defb6897bbd4279f18fa81f8ff689bad2dc"
 metafile = true
 
 [[files]]
+file = "mods/jepp.pw.toml"
+hash = "a9bdff5f75492d573830b3f580c1bba22ecb32e4cbf62f093cc5fdffd932c597"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "f8c78f9eef3ce31cc182a1d0d12c93c2e5258ca83e28fea0ec2a2fba999f9a9c"
 metafile = true
@@ -574,6 +590,11 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "18c83961428729d4cd6b90ed1f822c89c55b963df3ad85d076800287091524f1"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
 metafile = true
@@ -581,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
+metafile = true
+
+[[files]]
+file = "mods/level-text-fix.pw.toml"
+hash = "a2652384df7e0dbc8d701198851e3c6f321b088f615dd436443a1f8ee1cb6b89"
 metafile = true
 
 [[files]]
@@ -596,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "b87e7522189c4430f0fd581f1e4a3388ebd65b06733ea4f7fec7b701de4dd101"
+metafile = true
+
+[[files]]
+file = "mods/littleframes.pw.toml"
+hash = "d184c713256f9cc0271e3c51c9a95762fc90eccdffe1de5282f266e4436ebc09"
 metafile = true
 
 [[files]]
@@ -689,6 +720,11 @@ hash = "ad65765b5ada6ba04199294cf6f70aae4f66f192a71b424f4a3f8c399eb5f93f"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
@@ -710,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a1304b946d3beb3f9c5b9fc98531e2d1f486340e9fdcbd89a76892115a74e1d2"
+hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
 metafile = true
 
 [[files]]
@@ -774,6 +810,16 @@ hash = "f58f6967e5b7d2d966a439edf6f27a89290c41a87049c0ed7324c887bbd6998c"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "a7eaded223027d0115e2eeb69f0c5ec7d0953befbd8af538f49c076878f995a7"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
 metafile = true
@@ -834,6 +880,11 @@ hash = "d414c651b19243b1140f6b8633469952f158dfa7183bf83670c68112770a047f"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "1488ba615e19545da03265aa234d3f9cb0a1b09d06bbb4dfc8b901f7585fbb8f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
@@ -845,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
-hash = "d8a726622a0a40604e89899289621c1d3dc59432e8bb648a54fe69c4864da71f"
+hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
 
 [[files]]
