@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
@@ -334,6 +334,11 @@ hash = "5c667da42e58562a973ff8c83fd1f343d78da4b77fa260bc75ac39488ac0374d"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
@@ -474,6 +479,11 @@ hash = "41a12fe923a97f85f3c776e8028d08f321b81699edd075949e84f21a6b22b3f7"
 metafile = true
 
 [[files]]
+file = "mods/invmove.pw.toml"
+hash = "f92ccbb8dd0fa8673aac790a46e153b8e027abbd90e41d31afde80288d0141f5"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "705a1b8bd910fef1d3e31687c8af61898ed64ab9e5e04a1f467a1c5368b66acb"
 metafile = true
@@ -531,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "3b9f5b67f80eb8c690dc29d08e6a8769a9dbe88a00b41e435fcdc2e1ed1c9159"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "22bed2f5be26074ac39fa491324906541b22260e91ac86e31b9c91ffaca8baa1"
 metafile = true
 
 [[files]]
@@ -646,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1304b946d3beb3f9c5b9fc98531e2d1f486340e9fdcbd89a76892115a74e1d2"
 metafile = true
 
 [[files]]
@@ -796,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5fdd47d0a8d2da612f4661b5043694f5b6d92754d603816d1ad9de4d6d13022b"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "6b268a4ed3898123e77da6f739cace72be55073cda6c799c515655359ddf2a0a"
 metafile = true
 
 [[files]]
