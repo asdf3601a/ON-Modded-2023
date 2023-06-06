@@ -1,0 +1,13 @@
+name = "Lightspeed - Launch optimizations"
+filename = "lightspeed-1.19.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ee25dbe1c54b0975a73e88753411e5454d08036"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4533212
+project-id = 821790

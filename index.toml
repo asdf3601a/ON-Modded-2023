@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "cdb0e22a9ee69f10733036d573fc351c9ac3461d7753dc67a4d0a6edd4c227f1"
+
+[[files]]
 file = "bin/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
@@ -27,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
+metafile = true
+
+[[files]]
+file = "mods/alexs-cloud-storage.pw.toml"
+hash = "9034a8ee3e84c3533c0aaf56b391330fc94ac617d99eaeabfbffac23b351e2a4"
 metafile = true
 
 [[files]]
@@ -132,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
 
 [[files]]
@@ -305,8 +319,18 @@ hash = "a77a0c3e2eb672a17e6f76b29f2e74fdb853f4a891acc50a8dd2992675ce8969"
 metafile = true
 
 [[files]]
+file = "mods/durability101.pw.toml"
+hash = "89d5dc435a58a507cef6662f6c86760c40609f96551572670f8328be6c68507c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "5c667da42e58562a973ff8c83fd1f343d78da4b77fa260bc75ac39488ac0374d"
 metafile = true
 
 [[files]]
@@ -500,8 +524,28 @@ hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
 metafile = true
 
 [[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "3b9f5b67f80eb8c690dc29d08e6a8769a9dbe88a00b41e435fcdc2e1ed1c9159"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "b87e7522189c4430f0fd581f1e4a3388ebd65b06733ea4f7fec7b701de4dd101"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "56b6d09fb2ccaceb7bf7f5ed03df651733f92f369220336de4ec9cbe002e88f3"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "eebad9183a63f374b30152d791e34faf5799fcfdacace25a3222f19fd0b8959e"
 metafile = true
 
 [[files]]
@@ -527,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "344c2e73fa3dfd6101d30884e2e03cb012a5f4f05d7a21b2986ad0924ecf084e"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "0621e3ceb90e1be4fa52d2ad6a886da1a74005148a2b4c02039af43f4908fa74"
 metafile = true
 
 [[files]]
@@ -575,6 +624,11 @@ hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
 
 [[files]]
+file = "mods/ping.pw.toml"
+hash = "ad65765b5ada6ba04199294cf6f70aae4f66f192a71b424f4a3f8c399eb5f93f"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
@@ -605,8 +659,38 @@ hash = "ffa199e6dd15c122281c0f5c453f387a75e3504cf6fa35500d967faad0f86e15"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "33dd511c887fbedaa92946fe57faa8cee8770a87211b334d9c807e4e80fc2b0f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "7d3c1de559ed73b86c31c27aefdd5cec7c91fcb69b580c1b3400c04f43b9ed58"
 metafile = true
 
 [[files]]
@@ -640,6 +724,11 @@ hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
@@ -647,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/spit-it-out.pw.toml"
 hash = "72fa26e552cbaf053b7f991dcb1e76576991e006f10383d87de7c8aec535aa0d"
+metafile = true
+
+[[files]]
+file = "mods/staaaaaaaaaaaack.pw.toml"
+hash = "283113722541abd98eff3ce3e5483d620a631179c6432cfafca1e48b192f3b77"
 metafile = true
 
 [[files]]
@@ -677,6 +771,16 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "0d59965134e837bc8d4c3a8b43788b493317070cc00f61de7beef0764981857a"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
 metafile = true
 
 [[files]]
