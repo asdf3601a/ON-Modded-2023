@@ -1164,6 +1164,11 @@ hash = "3b0855bb4c78b834ef5446490fccebda538991d5640fdf2877492e1491a1f271"
 metafile = true
 
 [[files]]
+file = "mods/nonconflictkeys.pw.toml"
+hash = "215353889bd3e4405efe3a6a019a6619c0898eed9202d260c105dde68e869350"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "5f163430d370c0974cce11ac6930eb852d463cac90628dc08042b9eb472ce70b"
 metafile = true
