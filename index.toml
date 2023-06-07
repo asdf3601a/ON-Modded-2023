@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "5ebd5793a4ae4c9ba6402425999da9c8bd71ddd6730de337214891cf71fb1df3"
+
+[[files]]
 file = "config/bettertags-client.toml"
 hash = "8d8c26a2013ce5f141ae73bc2e8b8da4dc2b78b844fee230b49ddf16df88f9e5"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
+
+[[files]]
+file = "config/onlinedisplays/main.properties"
+hash = "12353f8a834d81c03e08e1dd5d0a8ada72a466a7eade7a917f50251cad5aabcf"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -268,8 +276,18 @@ hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "d07a4b384d8cb4688e3a3b292e9ba9e0a8d9d293c6505e2a73012ed767a4a2b4"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "fb1837701e619c989718b372ef5f68d035a3afc8822dd98792b847452bbfbc3b"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "7e820e700b39ceca39e26f359b8ce16bbd563212edcd57af8c2d4b7aafa30ed8"
 metafile = true
 
 [[files]]
@@ -425,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-and-oil-generators.pw.toml"
-hash = "c3dca643ce803ead7bfbbe067932c99d723198e718fe6694d3455005b4d9af91"
 metafile = true
 
 [[files]]
@@ -645,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
+file = "mods/epic-samurais.pw.toml"
+hash = "0df74379534ada6fafd64d18ba4d8edba85df3b73475b23a0a1d3a0857dee0c9"
 metafile = true
 
 [[files]]
@@ -1053,6 +1071,11 @@ hash = "0f733fab14b7f42c6a41da147edf277a937a2c494c8c38ff6df4547fa3935df6"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "509ba6d82b0c4956d38df9b09a8cd9656aefed1886c68125aec677cca2933c37"
+metafile = true
+
+[[files]]
 file = "mods/metal-barrels.pw.toml"
 hash = "12dd9bd0a297bc5b131820c4cbcda341461c70a20fd6369c5093ce8b4f2ed295"
 metafile = true
@@ -1070,6 +1093,11 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "86cebca6d48ae03d07e8ea96b2b02bb2a3eadc1ff7a6f8fde064924723ab6b99"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "a6c8db9d88523ec05b20f1901d140e25ecb28bc4e8753d2561390bde55349a7a"
 metafile = true
 
 [[files]]
@@ -1188,6 +1216,11 @@ hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
+file = "mods/online-displays.pw.toml"
+hash = "75464c992a0888e4472cc2031a163662cdc9a074e390f469380eb0c8afbba05f"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
@@ -1300,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/reauth.pw.toml"
 hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+metafile = true
+
+[[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "de566da5a6b9b06872c00cb9ab1212f49324e0966bec77d0ea886cee8c2cfd2f"
 metafile = true
 
 [[files]]
@@ -1464,12 +1502,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "4c9539a6d5f8e98809bc518b9ee8231b6c515c58a1f74d9b88b71a6fff26ba03"
+hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "f702abd9df78794a23c2926271a8c4b8aa7785e076a16fc72179095bdb2f46af"
+hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
 metafile = true
 
 [[files]]
@@ -1563,8 +1601,18 @@ hash = "8d2c6294be2f0e0efcc0e7605456350cc061c4e7dac921c895dd3510d58cdbf5"
 metafile = true
 
 [[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "a721793fd776ab1e73cca80197d52101db83b59e074090683dfdb5ff01f4f47c"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
 hash = "41837d3284d1b0d58176c136a226687f5abd8f56d6062e74c87086224d0b6435"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-aiots.pw.toml"
+hash = "7b7c22858a9c0aabbb454d73299a21fa0ff1fe64320e0d56c693fac9168b794e"
 metafile = true
 
 [[files]]
@@ -1580,6 +1628,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "f374f763392a7a2b66f84bdb3523bae3133c42101153d29550e216660adcc3c6"
+metafile = true
+
+[[files]]
+file = "mods/waterdripsound.pw.toml"
+hash = "5e7bceb15b7dbea25c7fdbd93eacbc6b234a3c20c865fa6dd85556702448ee01"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Online Displays"
+filename = "OnlineDisplays-1.19.2-19.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "202e7d70466c367abd001e577c81eada17ebf415"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4563029
+project-id = 785509
