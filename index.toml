@@ -584,11 +584,6 @@ hash = "d6073c7d70e2b241aba3e441ec8f030b13aa50a7f61adfc12216abf0b79b211e"
 metafile = true
 
 [[files]]
-file = "mods/editsign.pw.toml"
-hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
-metafile = true
-
-[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
 metafile = true
