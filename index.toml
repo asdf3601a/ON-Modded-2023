@@ -9,6 +9,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "847efabca24da5501f837950b8dce49230939ab057ebe976fd42662d48ff05de"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -1251,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
