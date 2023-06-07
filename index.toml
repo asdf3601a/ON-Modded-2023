@@ -313,6 +313,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/coffee-delight.pw.toml"
+hash = "e1073e867442ae3fd4e86a995e7d85c4f3e851ddffdfddbffed1553fe9aefa70"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1e962fcff7e64f2346dddb8567f8e40fa336c45c15ea9cd2b4434ade742ba4db"
 metafile = true
@@ -640,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
+file = "mods/extradelight.pw.toml"
+hash = "7fe9904ec669c37f1897218fb577e565829aabeeff36b457d06fb34b180d648e"
 metafile = true
 
 [[files]]
@@ -1205,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
+metafile = true
+
+[[files]]
+file = "mods/pineapple-delight.pw.toml"
+hash = "75af5eb51348eb16b207581c4aeb87241e195fe5ac828ffd3e650890a8d0bdf8"
 metafile = true
 
 [[files]]
