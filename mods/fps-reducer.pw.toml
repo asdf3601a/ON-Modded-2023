@@ -1,16 +1,16 @@
-name = "Keymap"
-filename = "keymap-0.7.0-beta.0+1.19.2-forge.jar"
+name = "FPS Reducer"
+filename = "FpsReducer2-forge-1.19.2-2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b92ff52452bed45a4bb67eff39a2f6825e6938bc"
+hash = "5989e6103fe38e50c7335eba000e358c1f887f17"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4159307
-project-id = 597298
+file-id = 3931329
+project-id = 280294
 
 [option]
 optional = true

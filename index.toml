@@ -13,12 +13,44 @@ file = "config/ferritecore-mixin.toml"
 hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2.json"
+hash = "6699e330b24d3781c2a4cabbc609063e3b7b099b02df65f1023c7d55836dd441"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/integrateddynamics.json"
+hash = "4b3d51e9165fc0c62b9edddd66255cc302d29725f99740e2f71577d5a71916c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/refinedstorage.json"
+hash = "2c0b22387833cf472f5b84a41f8cc300b5dcf7f99b0d63675c2255e5a94763e9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedbackpacks.json"
+hash = "f7309cfa1b5dafba992e5414a8fb36388f266e5d34c3a92d387d81f38719f49b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"
+hash = "fb15709c8e1dbf11b641b026d39eeb4d699c08639d59c89ed2bed882214ebd2b"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "97911e40d891076675aa198fbed84160c2324c183184cc1b6f9e4223d611bddd"
+
+[[files]]
 file = "config/onlinedisplays/main.properties"
 hash = "12353f8a834d81c03e08e1dd5d0a8ada72a466a7eade7a917f50251cad5aabcf"
 
 [[files]]
 file = "config/quark-common.toml"
 hash = "847efabca24da5501f837950b8dce49230939ab057ebe976fd42662d48ff05de"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -206,13 +238,13 @@ hash = "7b81306e58664695856c98ee9c7c32eedb2a5e6b42649e7355e1b34fe4174d92"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
+file = "mods/bettergolem.pw.toml"
+hash = "6e79b66321c8e23c23660a9c3f883d22ee685227dbf6267a6ea4da09ec95d7ac"
 metafile = true
 
 [[files]]
-file = "mods/bettergolem.pw.toml"
-hash = "6e79b66321c8e23c23660a9c3f883d22ee685227dbf6267a6ea4da09ec95d7ac"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
 
 [[files]]
@@ -766,13 +798,13 @@ hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
+file = "mods/fps-reducer.pw.toml"
+hash = "e458a6f5db35a0ded5c8f0d9a87ee5dd1e4ec92ef9cc1192aca4a75210219441"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
+file = "mods/framedblocks.pw.toml"
+hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
 
 [[files]]
@@ -793,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/frozen-up.pw.toml"
 hash = "a6b5c0a7e1992c9672f185cf88a7a63a6a25ed66d57e4f2c26f299b2b954594c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "cddf8849816c45f00b6a75be8a4b2bc55cab00f720db9661d861b6b1f516a36e"
 metafile = true
 
 [[files]]
@@ -962,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "4cd2f47b755ea307a4fd5592431ee7874b5c597a71428393e994f3d03a0817a7"
+hash = "578d168e8c5e7fe9710337ae9b9e0de3fd94d6d084886fbf2426c0da9c3b4ec0"
 metafile = true
 
 [[files]]
@@ -1131,11 +1168,6 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "b624e40ebb53d9c19e7a45c8731dca04d60f6ee359a5ce64eaafca7177a731e5"
-metafile = true
-
-[[files]]
 file = "mods/mutil.pw.toml"
 hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
@@ -1183,11 +1215,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
-metafile = true
-
-[[files]]
-file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "06b93497538940790199dc9401633eec0098deff750a07109c05f994b1ada0fe"
 metafile = true
 
 [[files]]
@@ -1293,11 +1320,6 @@ metafile = true
 [[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
-metafile = true
-
-[[files]]
-file = "mods/project-arsenal.pw.toml"
-hash = "1c962ba7cf18a2cf000e324007fb34d2d62f5701d09753b08a6f9a658848e45e"
 metafile = true
 
 [[files]]
@@ -1451,6 +1473,11 @@ hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
 metafile = true
@@ -1478,11 +1505,6 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
-metafile = true
-
-[[files]]
-file = "mods/strawgolem-reborn.pw.toml"
-hash = "559b775ff6f37c7a83921dc8df4a83f2352f939eb935f538a7885af824f03788"
 metafile = true
 
 [[files]]
