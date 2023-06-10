@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "58aed55b55bc72a815e4c2d985440da38ba0785818403b2efe369d94a9e3f15e"
+hash = "12ff980129f8d17c101f380ce3aeb72e7908bd397eb770a7948945be04ea9a36"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "3d84d21a91906992ce341bf9211a4154134247235b02552b09726ffec1784ac8"
+hash = "9b31250dc96584a9a3b7f82fbac4236818dd3625370f2efffb7ec8d1fc9ed288"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
+hash = "1dfc001ea60c20a7d091284f2e071064f19725684cfa61bbe34ef991ff5ae456"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-crosshair.pw.toml"
-hash = "ed68b58398aed03fce991b9d1dc435e1eda12a828d65951ced1f149e1e9f64b2"
+hash = "a13a137850a287f38798650d08ea2d5e7907c230497da91693479e40b5449785"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
+hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "e458a6f5db35a0ded5c8f0d9a87ee5dd1e4ec92ef9cc1192aca4a75210219441"
+hash = "4e469ca96b7511a7e18a4854c5a2f4cfdfddfeb70309c867146b369e2d866555"
 metafile = true
 
 [[files]]
@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "152373507e2aa31cff71380bf062bb9f860dc58e13b22488ceaf26d360c00887"
+hash = "0254a83fce3eaa45135e7aa0b3fe0252713d7b430665909617bc4d101ac92054"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
