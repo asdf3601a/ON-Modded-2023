@@ -1,5 +1,4 @@
-onEvent(
-    'recipes',
+ServerEvents.recipes(
     event => {
         event.shapeless(
             'moblassos:creative_lasso',
