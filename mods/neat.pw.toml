@@ -1,6 +1,6 @@
 name = "Neat"
 filename = "Neat-1.19-32.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

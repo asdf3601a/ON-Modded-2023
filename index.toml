@@ -219,17 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
+hash = "dfdabb94879014e4ac0ea1b4dde0e9926db7ed0eb430fe1ee5d68156ef20667f"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "5947b10783808ab2271f685df6ffb1b136abcb9656ed65fa3ee14e59c31a5cd2"
-metafile = true
-
-[[files]]
-file = "mods/better-tips.pw.toml"
-hash = "a6df1375311bacb175c165e5f54077d4a7dd3baa278e950243fb198d3f1f1c08"
 metafile = true
 
 [[files]]
@@ -609,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability101.pw.toml"
-hash = "20364da924edf2559cf1c69a4be9e9cf99e3fa20b7f8117f8ed07d96c0de0927"
+hash = "e6056d497b4cfcbdef708bd345d143c0e4bbd3b47d868820438bbfa8382d84dc"
 metafile = true
 
 [[files]]
@@ -764,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "e09869aa3451d1df3fe8a0c4f4cacb5044c3cad5398872ea24b2b74eee7cd85f"
+hash = "07732043ee639781d5813a0443f581d5c219f2e5cbcbfbd55788b417ae9a8641"
 metafile = true
 
 [[files]]
@@ -913,6 +908,11 @@ hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "152373507e2aa31cff71380bf062bb9f860dc58e13b22488ceaf26d360c00887"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "77666aab3567194263c594a898c47af230bfe922c474a3f43311663ce9ccdfe2"
 metafile = true
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "578d168e8c5e7fe9710337ae9b9e0de3fd94d6d084886fbf2426c0da9c3b4ec0"
+hash = "ea64ede613d6bc53dfafc606bb529398d6e6f827730a9835d77fc133aecb30d1"
 metafile = true
 
 [[files]]
@@ -1199,12 +1199,12 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "0a05a79fe9dbd7557ebdbbeb7bdb09e12426062dcd5031a7217a74e868595573"
+hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "49d56d76531eb631ea7978fa52729325a41c262d20fa605f7fa2732f5521f126"
+hash = "f9aacce691fc98b2d6a72c3c0fd4c5d1ee735f906fa9fceb45d20d823acac4e2"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+hash = "9ec81d3625f9af38cf75a2988906498e185dcbb10b05a26b04093149649f486e"
 metafile = true
 
 [[files]]
@@ -1394,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
+hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
 metafile = true
 
 [[files]]
@@ -1414,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "a7eaded223027d0115e2eeb69f0c5ec7d0953befbd8af538f49c076878f995a7"
+hash = "c46e2498ede314a29e88d6a732b83e18b281013ec1fadf612a9101c341c7f347"
 metafile = true
 
 [[files]]

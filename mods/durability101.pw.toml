@@ -1,6 +1,6 @@
 name = "Durability101 Forge/Fabric 1.12-1.19"
 filename = "Durability101-forge-1.19-0.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
