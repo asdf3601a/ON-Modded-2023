@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4427313
 project-id = 417645
+
+[option]
+optional = true
+default = false
+description = "JEI"
