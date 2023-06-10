@@ -1684,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/wmitaf.pw.toml"
-hash = "0351b0fde39bc6d41fd1283270af87b2057b10d670ff3c44ade8ae835542f8bf"
+hash = "b6c1a867dfb9c5c347542b40db6b8f170f50edfea373c4b97558aaa2e783fc80"
 metafile = true
 
 [[files]]
