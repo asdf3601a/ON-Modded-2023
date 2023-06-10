@@ -53,6 +53,10 @@ file = "config/twilightforest-common.toml"
 hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
 [[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "348c288409b4aea05ff69581c7b4ed36c7cb57e5ff937632034c72656d2e7541"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -104,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "7d97c74a8face79b86276545e903f7e37191b69137376c4269464fd51e9a9ca6"
+hash = "ef04ac42f6b70776cf05e7ff3b602984a35d0609be4e884d5680c3b7b2db6ec1"
 metafile = true
 
 [[files]]
@@ -164,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-instrumentum.pw.toml"
-hash = "17e2256a6a49e59ccfa86d471a024acb9844a6aab390fd5de593ca7024d6a317"
+hash = "3d497c1b62bd9831a9e835d7474f282c11e4936701705d35f4079a1643d93800"
 metafile = true
 
 [[files]]
@@ -474,12 +478,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "a63fb222bb40ba54b115477ba1d467cca3d8c92c9de9839fed2e1973dfa1640b"
+hash = "bd01fea3e6018a78b26d195a9b7777a26b35d6f383aaed17dcd0130bb813f80b"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "766230d826e379b2f64da0cef639a8a6397cae81d92028af100fc864cbcdc9ee"
+hash = "82a4415c7adb20911c93825f8e414df80ebc5fc19abfe753721b7e93b003b462"
 metafile = true
 
 [[files]]
@@ -649,12 +653,12 @@ metafile = true
 
 [[files]]
 file = "mods/enderchests.pw.toml"
-hash = "4ddaf5730a18962bd1ae4a1f00857d1a38c9149adc4b2352049a188777bb2893"
+hash = "6e17b4821eda72cfe16c10d122bb12f78a89b1a666d1281eb50c3154162c7fe5"
 metafile = true
 
 [[files]]
 file = "mods/endertanks.pw.toml"
-hash = "cc0298b3363bc71d39a9d0c86dbc7e738afc9f59e661869ff814c91bb6bd2005"
+hash = "f05ce617894b96bcf3f142fecfe1c5fba6ffd2b23950171c4ce54c3b45076e16"
 metafile = true
 
 [[files]]
@@ -939,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "41a12fe923a97f85f3c776e8028d08f321b81699edd075949e84f21a6b22b3f7"
+hash = "b8420030c0a024415116fbc7e4f71e429bb828dd6f45960cf0483b6d1738fc26"
 metafile = true
 
 [[files]]
@@ -969,12 +973,12 @@ metafile = true
 
 [[files]]
 file = "mods/jcplugin.pw.toml"
-hash = "f91c2ebd540472a30a4c5be3ee320defb6897bbd4279f18fa81f8ff689bad2dc"
+hash = "5c9deb013e842d42103c2b9d723a91e890648a400831a25a554f2d65d83b778f"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+hash = "528c61a6bccfe4cc5bd1a5d8bbe88f878830917595313466260008746b250ef4"
 metafile = true
 
 [[files]]
@@ -999,12 +1003,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "413806f003b9c9b62f701d97aaf128534618d25c3fda27505e1543b44fe20f79"
+hash = "177671cf874bfacec049d316d06ef31f7dee8a3a47714be3acfa28a33ecc807d"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
+hash = "6adb531ed8f48dee95e7b804ad285e18f49f906c4c907bc31a2f70fce941d89a"
 metafile = true
 
 [[files]]
@@ -1020,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
@@ -1054,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3b9f5b67f80eb8c690dc29d08e6a8769a9dbe88a00b41e435fcdc2e1ed1c9159"
+hash = "f2563731c68f89827061c27dd2bffb07023e69daf6ea7fb04bf3eea6d57e8992"
 metafile = true
 
 [[files]]
@@ -1333,6 +1342,11 @@ hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "fd6314aad0417650e49f9a5a0f690a969c4c6c561ebdeb12b25af3d434699c06"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
 metafile = true
@@ -1383,23 +1397,28 @@ hash = "23969e0489fcdcb2b18f33dc932b7ffbe1a0da60b5ec3b22f70174600acdf343"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "9635d364ae87846c0244fd4bb91d6bdb7608b7d5c503579127233e56282c233c"
+hash = "b9178589b5ec7866aa49f3cce0532c478c211cb8379e479c822427ecec83f2eb"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "be4e504a5222f1827aada48a8c8c80bcfa04a393e712d9aa86bd80e90cb0e80b"
+hash = "eb0a89646c4615f0d37e55bb60164ac6d916e6515182e81a812e4c71ab6071f5"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "90827e0c4c738167df799cb67011c376fe6339753fbb5f2258f6d1131d1a46d1"
+hash = "6093d1b0f580384a6791af2f3cf52a1cd3ba839deba51134e0559dbe5331ee61"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
-hash = "a91ecc934d15a1fcab835c35fea88525c0a1317788c9e647a194dd13034e5e14"
+hash = "845bcd3e2487156a8c059f9694d3c9daae602dc5eec0c91a1350791eeac0efeb"
 metafile = true
 
 [[files]]
@@ -1434,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
-hash = "ed0a5a02920d7836c307bef6af23c977b1d2cea10dbe089c953a75daf9839243"
+hash = "7e52fe08dff06c5f76fbb471fd316c382e0e824b5734561279fcf8da814e438c"
 metafile = true
 
 [[files]]
@@ -1459,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
+hash = "5b173d84fd59812d891ff0e329aafda90685a4ec2cca0d23187af9a93d5fdcc9"
 metafile = true
 
 [[files]]
@@ -1509,7 +1528,7 @@ metafile = true
 
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "283113722541abd98eff3ce3e5483d620a631179c6432cfafca1e48b192f3b77"
+hash = "eda620671a8db390dd41fc25d858521629d1b72430cc1347db219f52da1defbc"
 metafile = true
 
 [[files]]
@@ -1529,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
-hash = "93ecbfb8cf9704c5ce19533d378054cbd97706b001d83439a83927f27b6de556"
+hash = "afd1534cf73ee4915debaaeb83724d970ab5a3bec8611380d20fc81f2c4b4f0d"
 metafile = true
 
 [[files]]
@@ -1684,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/wmitaf.pw.toml"
-hash = "b6c1a867dfb9c5c347542b40db6b8f170f50edfea373c4b97558aaa2e783fc80"
+hash = "d76098871cad3c4f30de8d33fcddf8898dff6d558bc38b912443de85cf330718"
 metafile = true
 
 [[files]]
