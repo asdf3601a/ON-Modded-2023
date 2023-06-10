@@ -1478,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "5b173d84fd59812d891ff0e329aafda90685a4ec2cca0d23187af9a93d5fdcc9"
+hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
 metafile = true
 
 [[files]]
@@ -1754,4 +1754,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-villages-immersive-engineering.pw.toml"
+hash = "c91877039d96ddaf842da3da5c98e8a88a5996f2257bdc7febc57458d8b71402"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-villages-more-villagers-compatibility.pw.toml"
+hash = "2e2af890d63db4bb7dfe9bf9f8c6868e9472aef71316fa615022c3dc00d6a8b2"
 metafile = true
