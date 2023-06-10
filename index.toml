@@ -54,7 +54,7 @@ hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "348c288409b4aea05ff69581c7b4ed36c7cb57e5ff937632034c72656d2e7541"
+hash = "edcd6af138436f374a529c619ae0a5d4fc1f3f6755a177747f0b0875f690dbe8"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
