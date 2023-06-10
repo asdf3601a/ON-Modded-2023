@@ -973,6 +973,11 @@ hash = "f91c2ebd540472a30a4c5be3ee320defb6897bbd4279f18fa81f8ff689bad2dc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+metafile = true
+
+[[files]]
 file = "mods/jepp.pw.toml"
 hash = "a9bdff5f75492d573830b3f580c1bba22ecb32e4cbf62f093cc5fdffd932c597"
 metafile = true
@@ -990,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "77e957c27970b54ffd72af06b3173f0fb29bee3cc72ca170ce217c36936e4458"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "413806f003b9c9b62f701d97aaf128534618d25c3fda27505e1543b44fe20f79"
 metafile = true
 
 [[files]]
@@ -1374,22 +1384,22 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
+hash = "9635d364ae87846c0244fd4bb91d6bdb7608b7d5c503579127233e56282c233c"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "33dd511c887fbedaa92946fe57faa8cee8770a87211b334d9c807e4e80fc2b0f"
+hash = "be4e504a5222f1827aada48a8c8c80bcfa04a393e712d9aa86bd80e90cb0e80b"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
+hash = "90827e0c4c738167df799cb67011c376fe6339753fbb5f2258f6d1131d1a46d1"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
-hash = "7d3c1de559ed73b86c31c27aefdd5cec7c91fcb69b580c1b3400c04f43b9ed58"
+hash = "a91ecc934d15a1fcab835c35fea88525c0a1317788c9e647a194dd13034e5e14"
 metafile = true
 
 [[files]]
