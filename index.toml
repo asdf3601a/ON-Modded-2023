@@ -287,6 +287,11 @@ hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
