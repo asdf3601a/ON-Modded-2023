@@ -1737,11 +1737,6 @@ hash = "4e0c6c57783eaa686c9bc206054e9e9f5b147491b3e91efd65c09f7b28bea16f"
 metafile = true
 
 [[files]]
-file = "mods/wither-skeleton-tweaks.pw.toml"
-hash = "ceff381c6024e27dd53377bb5d7dbab91b07372203934ab9f894be7447ecb248"
-metafile = true
-
-[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "d76098871cad3c4f30de8d33fcddf8898dff6d558bc38b912443de85cf330718"
 metafile = true
