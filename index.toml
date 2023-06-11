@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "dd9b0dde02a6b93b3bbd99253aed1169f14514577af2bb8d9cdc9af65b1fc5f3"
+hash = "186c65b2290b2639ba000b0e22264a8e4c4d65dad0688ad5393cf4ad3244e5ac"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "95a6a0e24f93744233d075985063a378b60c0bc3d5a71de80a18982c7ecf0678"
+hash = "d69c20a2bd103b56bfb95abe1542aea61590de5778e8505cae2c0e889191ce87"
 metafile = true
 
 [[files]]
@@ -697,11 +697,6 @@ hash = "0df74379534ada6fafd64d18ba4d8edba85df3b73475b23a0a1d3a0857dee0c9"
 metafile = true
 
 [[files]]
-file = "mods/extradelight.pw.toml"
-hash = "7fe9904ec669c37f1897218fb577e565829aabeeff36b457d06fb34b180d648e"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "ab15309d097547465b83f1969279f51715827f904aa18fbfd67e8a2d3cb29b91"
 metafile = true
@@ -818,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozen-delight.pw.toml"
-hash = "a8597cf2aad4e86fdf3fa19a21aa999fc560005595fec76ae04817365f5997f6"
+hash = "1a2d1f8a8d462848f39a8b0ff9f27b6658f7da19f41ab248ad1e2a02b7e3df55"
 metafile = true
 
 [[files]]
@@ -1112,6 +1107,41 @@ hash = "d213fe250f63ca544e36c99d81238a1c8a4e4d04c5c4272c582a9b158850f02f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "864b977898a944f14f98e5a75a4a4d841c9a28c523d94657d8c5ce4929ad4ef6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "c794e7e2ee49bc81f976006903ae7bc68b9452ca4e3811ce3d9e2fa52ba3e3c4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0c0819e3f1ca43c84af57322e215cd56c8b94a1b620dd021000e0af5775e8af5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "30a98c2d143d15fd3916892e63bb0269f4b1124d09220315959f62e3afbf7d0d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "bce8efa985cc7b8be23e093e0f6aa96123362c8a6dbe32856855c5ba71f9cb60"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "7f0fdcb05f21e5c6d86beedefca4c2e60d87ede97de306bc85ed10a646e67227"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "b2d7d550238a9224ad82f0db86e9dcb0b038eaa91f5a7d563bdca6887f3d8c52"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "eebad9183a63f374b30152d791e34faf5799fcfdacace25a3222f19fd0b8959e"
 metafile = true
@@ -1243,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/nomowanderer.pw.toml"
-hash = "3b0855bb4c78b834ef5446490fccebda538991d5640fdf2877492e1491a1f271"
+hash = "8e08d9abf6fe745d1565d6233d45fde681ba5e0eab5f195c29040e389065e774"
 metafile = true
 
 [[files]]
@@ -1258,7 +1288,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "9ec81d3625f9af38cf75a2988906498e185dcbb10b05a26b04093149649f486e"
+hash = "2584078440b47a3066e42a2d869d22715e486256e1d3ec5142008e2273f75860"
 metafile = true
 
 [[files]]
@@ -1609,6 +1639,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "fb60de7f38e1fee3222fa42af9d6e5e105290bbd342eb88431c9e16cd0fe4758"
 metafile = true
 
 [[files]]

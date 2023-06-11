@@ -1,13 +1,13 @@
 name = "Frozen Delight (A Farmer's Delight Add-on)"
-filename = "frozen_delight_1.3.1_forge_1.19.2.jar"
+filename = "frozen_delight_1.3.2_forge_1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "be783315a268bee6ea4c03d2e4ccf7461bac186b"
+hash = "86c2c96d4cac4e42004adbf64b42c6fb08a7e90d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4455693
+file-id = 4578219
 project-id = 609918
