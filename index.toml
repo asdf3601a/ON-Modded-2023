@@ -53,8 +53,16 @@ file = "config/twilightforest-common.toml"
 hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
+file = "kubejs/server_scripts/backpacked.js"
+hash = "f65401872980af9f1db80b40687ce8c2022904b3fff3e0c3d80707f8f7b22dda"
+
+[[files]]
+file = "kubejs/server_scripts/moblassos.js"
 hash = "edcd6af138436f374a529c619ae0a5d4fc1f3f6755a177747f0b0875f690dbe8"
+
+[[files]]
+file = "kubejs/server_scripts/twilightforest.js"
+hash = "0eb3206a126bc91bbb52e062159d2368a1a43eab9a5d6e81292ddbd7811de8b9"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"

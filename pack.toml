@@ -1,12 +1,12 @@
 name = "ON Modded"
 author = "cute_panda"
-version = "1.0.3"
+version = "1.0.3b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "90dc5717810e71fbc53545b9af37ecbaaec4597604dd4bb83af9f0e77cd2300a"
+hash = "61fe4d17d0ba7443559bcf2c0707dffeddbd3524579df475d70352dcf12549d9"
 
 [versions]
 forge = "43.2.14"
