@@ -310,6 +310,16 @@ hash = "914c652347a5a4142e0dfdf801926a7bc0bd77be6edb2a032cf88a01a2dd37bb"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "0d5bbcc4013db1212d188c3a2e3ca971f4f47a64ba74957e9e544393bd0c407d"
+metafile = true
+
+[[files]]
+file = "mods/cammod-qmax.pw.toml"
+hash = "dd93439217a8feca17111d0dac54036902ada406916d986eb35abe5d0b8897e4"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
 metafile = true
