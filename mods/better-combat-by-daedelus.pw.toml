@@ -1,6 +1,6 @@
 name = "Better Combat [Fabric & Forge]"
 filename = "bettercombat-forge-1.7.1+1.19.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
