@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/cammod-qmax.pw.toml"
-hash = "dd93439217a8feca17111d0dac54036902ada406916d986eb35abe5d0b8897e4"
+hash = "e48eef58284b2d88e80460fe3bb36b1d916177e0076c009b8feb9af7488f1cf5"
 metafile = true
 
 [[files]]
