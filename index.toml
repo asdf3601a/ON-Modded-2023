@@ -975,11 +975,6 @@ hash = "705a1b8bd910fef1d3e31687c8af61898ed64ab9e5e04a1f467a1c5368b66acb"
 metafile = true
 
 [[files]]
-file = "mods/it-shall-not-tick.pw.toml"
-hash = "2baf89f01663c240143e8c7aa9e5813f82dabbd84f38832609707d43f9e2f2a3"
-metafile = true
-
-[[files]]
 file = "mods/italian-delights-add-on-for-farmers-delight.pw.toml"
 hash = "81460b86d6663d493c9ddce34475e08d671f166e218e7eb5e3642dd46f6c3601"
 metafile = true
