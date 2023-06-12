@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4571695
 project-id = 866957
+
+[option]
+optional = true
+default = true
+description = "believe server is strong enough"
