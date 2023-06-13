@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
+hash = "ed3a185fba569969c28c02ff44d0e5266d297d1345498dfdce3c771439ddc8b8"
 metafile = true
 
 [[files]]
