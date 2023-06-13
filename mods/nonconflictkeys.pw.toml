@@ -1,5 +1,5 @@
 name = "NonConflictKeys [Forge]"
-filename = "NonConflictKeys-Forge-1.19.X-1.0.0.jar"
+filename = "NonConflictKeys-Forge-1.19.X-1.20-1.0.0.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4547896
+file-id = 4580489
 project-id = 864845

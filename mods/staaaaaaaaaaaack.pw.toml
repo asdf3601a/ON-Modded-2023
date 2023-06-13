@@ -1,18 +1,18 @@
 name = "Staaaaaaaaaaaack (Stxck)"
-filename = "staaaaaaaaaaaack-forge-1.19.2-1.0.1-28.jar"
+filename = "staaaaaaaaaaaack-forge-1.19.2-1.1-34.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "909e9aa079ece5155b6816b9666273a0e84a18cc"
+hash = "965fef9a82d6e9e83e77d347d42ae461e3a092e8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4571695
+file-id = 4579670
 project-id = 866957
 
 [option]
 optional = true
-default = true
 description = "believe server is strong enough"
+default = true

@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-alchemists-industry.pw.toml"
-hash = "5b42adba2cf3fe76060776a01f0ef056305a07011c1ff3d9416cecc162faf322"
+hash = "9e1e5f8d4ec8c2721e807b33c67fd5cf23d117cd3740e36464f8b188f5aed149"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "82a4415c7adb20911c93825f8e414df80ebc5fc19abfe753721b7e93b003b462"
+hash = "2ff36f00688fb35059a16e454b2e6f50160be92cb52c5d7044ea0837c281b79e"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
-hash = "d6073c7d70e2b241aba3e441ec8f030b13aa50a7f61adfc12216abf0b79b211e"
+hash = "6005689f291b05975eea09ab59690b14ddcd39b473b9631a8a47e7a0a9efcce3"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-samurais.pw.toml"
-hash = "0df74379534ada6fafd64d18ba4d8edba85df3b73475b23a0a1d3a0857dee0c9"
+hash = "03680253bebd1a6635bd8b57e5891e2ec36707033d21ebd8ed9e5dcd3f446b07"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
+hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c60b022be60c1516fccef0262a8980b865d5865256f232aebb87c7a9a12a815"
+hash = "1a8716f67a014d83788b31c808d517a8960fbd8e116e5692c397c2054073da5d"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/nonconflictkeys.pw.toml"
-hash = "215353889bd3e4405efe3a6a019a6619c0898eed9202d260c105dde68e869350"
+hash = "73ee72f79f1a08282a46b90023cdb973b6940222339e22222cc5c207880adb5c"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-size-double-forge.pw.toml"
-hash = "e634a1df108863160c80a83d0f902ddd581772d8106201309dc080e0ad4fa491"
+hash = "22a689502a18ff818501072442b16c1d1419f4fac33d0727acea2008e457e146"
 metafile = true
 
 [[files]]
@@ -1396,7 +1396,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
+hash = "79c6b9f46c4be84ea2c8e1244f9c7547d747ec9040528625b2e489f22061065c"
 metafile = true
 
 [[files]]
@@ -1406,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
+hash = "c98ef6957a40ec3b2d2d555b38fc58da7c46ebab01cb68dc22db6e764137bf15"
 metafile = true
 
 [[files]]
@@ -1526,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
+hash = "5b173d84fd59812d891ff0e329aafda90685a4ec2cca0d23187af9a93d5fdcc9"
 metafile = true
 
 [[files]]
@@ -1576,7 +1576,7 @@ metafile = true
 
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "ea706c745a4d0eab3cf10942198044c7fc57d0de3094e19a22047f6afc66e61a"
+hash = "77f8ed73dd3d27a5e18627d4bf05d0680eaf02c829c7cb0b466b424df134b923"
 metafile = true
 
 [[files]]

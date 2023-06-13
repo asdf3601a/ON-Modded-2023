@@ -1,13 +1,13 @@
 name = "Create Alchemist's Industry"
-filename = "alchemind-0.1.2.a-1.19.2.jar"
+filename = "alchemind-0.1.2.a-1.19.2-create0.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "53c32f7cc108c4a4b35fc1a23630ba49f10cc8a0"
+hash = "7c22e4d616cabcc05b38e4e8bdcd2eceee508767"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4556190
+file-id = 4583309
 project-id = 856080
