@@ -14,5 +14,5 @@ project-id = 240630
 
 [option]
 optional = true
-default = false
-description = "JEI"
+default = true
+description = "JEI, Compatible with REI Plugin Compatibilities (REIPC)"
