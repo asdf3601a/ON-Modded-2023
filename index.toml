@@ -49,6 +49,10 @@ file = "config/quark-common.toml"
 hash = "847efabca24da5501f837950b8dce49230939ab057ebe976fd42662d48ff05de"
 
 [[files]]
+file = "config/theoneprobe-common.toml"
+hash = "8b7d24f345086ae8bfc81352d48b258f22343725eef0c61c606d9b0140543079"
+
+[[files]]
 file = "config/twilightforest-common.toml"
 hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
@@ -1576,7 +1580,7 @@ metafile = true
 
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "77f8ed73dd3d27a5e18627d4bf05d0680eaf02c829c7cb0b466b424df134b923"
+hash = "01626a7c906a0dd157a50d0ee43161f05dc873e450a68ce65cac231cb5c81cb4"
 metafile = true
 
 [[files]]

@@ -14,5 +14,5 @@ project-id = 866957
 
 [option]
 optional = true
+default = false
 description = "believe server is strong enough"
-default = true
