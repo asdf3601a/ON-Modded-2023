@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "9b31250dc96584a9a3b7f82fbac4236818dd3625370f2efffb7ec8d1fc9ed288"
+hash = "3d84d21a91906992ce341bf9211a4154134247235b02552b09726ffec1784ac8"
 metafile = true
 
 [[files]]
