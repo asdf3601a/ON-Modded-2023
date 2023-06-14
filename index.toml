@@ -50,11 +50,15 @@ hash = "847efabca24da5501f837950b8dce49230939ab057ebe976fd42662d48ff05de"
 
 [[files]]
 file = "config/theoneprobe-common.toml"
-hash = "8b7d24f345086ae8bfc81352d48b258f22343725eef0c61c606d9b0140543079"
+hash = "e9bd1274481b8a052dfcf0b7a6e13a3939ba547257effe97a1e7b44e80fae2f3"
 
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "1c81fb886db2fe7f107f525d9b4e34c90334844b8dce0c7435587cc303e3f6eb"
 
 [[files]]
 file = "kubejs/server_scripts/backpacked.js"

@@ -4,7 +4,7 @@
 loggingThrowableTimeout = 20000
 #Is the probe needed to show the tooltip? 0 = no, 1 = yes, 2 = yes and clients cannot override, 3 = probe needed for extended info only
 #Range: 0 ~ 3
-needsProbe = 3
+needsProbe = 0
 #If true the probe will automatically show extended information if it is in your main hand (so not required to sneak)
 extendedInMain = false
 #If true there will be a bauble version of the probe if baubles is present
@@ -57,4 +57,3 @@ blacklistEntities = []
 tooltypeTags = ["minecraft:mineable/axe=Axe", "minecraft:mineable/pickaxe=Pickaxe", "minecraft:mineable/shovel=Shovel", "minecraft:mineable/hoe=Hoe"]
 #A list of <tag>=<name> containing all harvestability tags with their associated name to display
 harvestabilityTags = ["forge:needs_wood_tool=Wood", "forge:needs_gold_tool=Gold", "minecraft:needs_stone_tool=Stone", "minecraft:needs_iron_tool=Iron", "minecraft:needs_diamond_tool=Diamond", "forge:needs_netherite_tool=Netherite"]
-
