@@ -1,0 +1,13 @@
+name = "NineZero's Gun Expansion"
+filename = "nzgExpansion-1.2.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad49181402cfae36ff99e8e773f7b8802dcaf072"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581201
+project-id = 819550
