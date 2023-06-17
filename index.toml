@@ -108,6 +108,11 @@ hash = "e21f860ab436aa4c136797ba128cc6ec71b3149846c1cefca1cf308771628494"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "81825a7a93743bd54cffb018d23044aca1d58528f2722962a14a31b0cd40328b"
 metafile = true
